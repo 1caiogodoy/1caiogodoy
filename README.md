@@ -5,12 +5,14 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar solu
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 💼 Alguns projetos
 
-- 🔧 [Projeto 1](https://github.com/1caiogodoy/calculadora)
-- 🧠 [Projeto 2](https://github.com/1caiogodoy/gerador_de_senhas1)
+- 🔧 [Calculadora](https://github.com/1caiogodoy/calculadora)
+- 🧠 [Gerador de Senhas](https://github.com/1caiogodoy/gerador_de_senhas1)
 
 ## 📫 Como me encontrar
 
