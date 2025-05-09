@@ -1,4 +1,4 @@
-# 👋 Olá! Meu nome é Caio de Godoy
+# 👋 Opa! Meu nome é Caio de Godoy
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar soluções de problemas reais e aprender coisas novas todos os dias!
 
@@ -11,13 +11,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar solu
 
 ## 💼 Alguns projetos
 
-- 🔧 [Calculadora](https://github.com/1caiogodoy/calculadora)
-- 🧠 [Gerador de Senhas](https://github.com/1caiogodoy/gerador_de_senhas1)
+- 🔢 [Calculadora](https://github.com/1caiogodoy/calculadora)
+- 🔑 [Gerador de Senhas](https://github.com/1caiogodoy/gerador_de_senhas1)
 
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://linkedin.com/in/1caiogodoy)
-
+- [Email](caiogodoaraujo@gmail.com)
 ---
 
 
