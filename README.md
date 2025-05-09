@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar solu
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://linkedin.com/in/1caiogodoy)
-- [Email](caiogodoaraujo@gmail.com)
+- [Email](contato.caiogodoaraujo@gmail.com)
 ---
 
 
