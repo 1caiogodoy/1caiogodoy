@@ -5,7 +5,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar solu
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 💼 Alguns projetos
