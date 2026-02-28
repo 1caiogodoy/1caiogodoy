@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar solu
 
 ## 💼 Alguns projetos
 
-- 🔢 [Calculadora](https://github.com/1caiogodoy/calculadora)
+- 🕵️‍♂️ [Labs](https://github.com/1caiogodoy/CTF-writeup)
 - 🔑 [Gerador de Senhas](https://github.com/1caiogodoy/gerador_de_senhas1)
 
 ## 📫 Como me encontrar
