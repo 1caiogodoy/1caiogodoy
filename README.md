@@ -28,6 +28,7 @@ Sem atalhos. Só consistência.
 ## 💼 Projects / projetos
 
 - 🕵️‍♂️ [Labs](https://github.com/1caiogodoy/CTF-writeup)
+- 🌐 [Network Scripts](https://github.com/1caiogodoy/Network_Scripts)
 - 🔑 [Gerador de Senhas](https://github.com/1caiogodoy/gerador_de_senhas1)
 
 ## 📫 Como me encontrar / How to find me
