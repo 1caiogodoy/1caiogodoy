@@ -7,6 +7,7 @@ Learning every day:
 - Web exploitation
 - Privilege escalation
 - Attack chaining
+
 No shortcuts. Just consistency.
 
 Estudante de Cybersecurity explorando o lado ofensivo da segurança.
@@ -16,6 +17,7 @@ Aprendendo todos os dias:
 - Exploração web
 - Escalada de privilégios
 - Encadeamento de ataques
+
 Sem atalhos. Só consistência.
 
 ## 🚀 Tech and Tools / Tecnologias e Ferramentas
